@@ -1,6 +1,8 @@
 # Python-Learning
 
-Welcome to the **Python-Learning** repository!  
+# Python Programming Guide  
+
+Welcome to the **Python Learning Guide** repository!  
 
 ## Overview  
 This repository contains a comprehensive collection of chapters dedicated to **Python programming**. Here, you'll explore everything from the basics to advanced concepts of the Python language.  
@@ -27,6 +29,25 @@ This repository is ideal for:
 
 ## Contributions  
 Contributions to this repository are welcome! If you have improvements, new practice sets, or ideas to enhance the learning experience, feel free to open a pull request.  
+
+---
+
+## About Me  
+Hi there! 👋 I'm Muhammad Saad, the proud founder of **MS Prime Tech Services**. I am a passionate programmer and tech enthusiast dedicated to creating innovative solutions and sharing knowledge with the community.  
+
+### Interests  
+- 💻 **Programming**: Python and other cutting-edge technologies.  
+- 🧠 **Learning**: Constantly expanding my skillset and exploring new ideas.  
+- 🔧 **Projects**: Building impactful projects that solve real-world problems.  
+
+### About MS Prime Tech Services  
+**MS Prime Tech Services** is my venture, where we focus on delivering top-notch tech solutions to empower businesses and individuals alike.  
+
+### Goals  
+- To foster a community of learning and innovation.  
+- To grow both personally and professionally while contributing to meaningful projects.  
+
+Feel free to connect with me or explore my work. Let's grow together! 🚀  
 
 ---
 

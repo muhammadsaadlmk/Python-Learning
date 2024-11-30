@@ -1,7 +1,5 @@
 # Python-Learning
 
-# Python Programming Guide  
-
 Welcome to the **Python Learning Guide** repository!  
 
 ## Overview  

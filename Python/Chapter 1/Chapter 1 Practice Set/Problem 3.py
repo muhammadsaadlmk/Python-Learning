@@ -1,3 +1,4 @@
+# Install and use the Module
 # We use the following line of code in the terminal to install the module:
 # pip install pyjokes
 

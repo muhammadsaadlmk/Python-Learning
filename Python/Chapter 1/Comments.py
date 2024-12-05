@@ -1,3 +1,4 @@
+# Comments
 print("This is a comment file")
 
 # In Python, there are 2 ways to write comments in the code. 

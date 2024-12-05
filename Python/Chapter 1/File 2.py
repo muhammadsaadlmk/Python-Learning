@@ -1,4 +1,8 @@
+<<<<<<< HEAD:Python/Chapter 1/Modules+PIP.py
 # Modules + Pip
+=======
+# Modules+PIP
+>>>>>>> refs/remotes/origin/main:Python/Chapter 1/File 2.py
 # Modules in Python are files that contain reusable code. They can include functions, classes, and variables, 
 # and you can import them into your program to make use of their functionality.
 

@@ -1,3 +1,4 @@
+# Use of REPL
 # Open the terminal or PowerShell on your system and type the following code to print the table of 5.
 
 # Method 1: Using print() for each multiplication step
